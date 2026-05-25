@@ -71,7 +71,7 @@ This project covers the complete BI workflow including:
 
 # Dashboard Pages
 
-# Page 1 — Executive Overview
+# Page 1. Executive Overview
 
 ## KPI Cards
 
@@ -93,7 +93,7 @@ Provides management with a high-level overview of overall waste performance acro
 
 ---
 
-# Page 2 — Root Cause Analysis
+# Page 2. Root Cause Analysis
 
 ## Visualizations
 
@@ -113,7 +113,7 @@ Helps identify operational issues and behavioral patterns contributing to food w
 
 ---
 
-# Page 3 — Profit Impact Dashboard
+# Page 3. Profit Impact Dashboard
 
 ## Key Measures
 
@@ -126,7 +126,7 @@ Analyzes the financial impact of food waste and highlights possible savings oppo
 
 ---
 
-# Page 4 — Forecasting & Planning
+# Page 4. Forecasting & Planning
 
 ## Forecast Visual
 
