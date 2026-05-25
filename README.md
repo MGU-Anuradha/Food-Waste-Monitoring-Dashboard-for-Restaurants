@@ -4,6 +4,8 @@ A real-world Power BI analytics project designed for undergraduate students to e
 
 This project focuses on helping restaurant chains monitor, analyze, and reduce food waste using Power BI dashboards and data analytics techniques.
 
+<img src="Power BI Workflow MindMap.png" width="800"/>
+
 ---
 
 # Project Objective
